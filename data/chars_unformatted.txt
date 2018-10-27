@@ -1,0 +1,96 @@
+Aegon Targaryen;			House Targaryen;								Young Griff (possible),The Mummer's Dragon
+Aemon Targaryen;			House Targaryen,Kingsguard;						The Dragonknight,The Knight of Tears
+Aeron Greyjoy;				House Greyjoy,Drowned Men;						The Damphair,Aeron Damphair
+Aerys II Targaryen;			House Targaryen;								The Mad King,King Scab,The Old King
+Alfyn;						Free Folk;										Crowkiller
+Alliser Thorne;				Night's Watch;						
+Arya Stark;					House Stark,Faceless Men;						Arya Horseface,Arya Underfoot,Arry,Lumpyface/Lumpyhead,Weasel,Nymeria/Nan,Salty,Cat of the Canals,Beth,The Blind Girl,The Ugly Little Girl,Mercedene,Mercy
+Asha Greyjoy;				House Greyjoy,House Ironmaker;					Esgred,The Kraken's Daughter
+Balon Greyjoy;				House Greyjoy;									King Crabs,Balon the Brave,Balon the Blessed,Balon the Twice Crowned,The Kraken King
+Barristan Selmy;			Kingsguard,Queensguard,House Selmy;				Barristan the Bold,Arstan Whitebeard,Ser Grandfather,Barristan the Old,Old Ser
+Bedwyck;					Night's Watch;									Giant
+Benjen Stark;				Night's Watch;									The Wolf Pup,Ben Stark
+Beric Dondarrion;			House Dondarrion,Brotherhood without banners;	The Lightning Lord,The Lord of Corpses,Lord Derik
+Bowen Marsh;				Night's Watch;									Old Pomegranate
+Brandon Stark;					House Stark;									Bran,Bran the Broken,The Winged Wolf,Prince of Winterfell
+Brienne of Tarth;			House Tarth,House Baratheon of Storm's End,House Stark,Rainbow Guard;	The Maid of Tarth,Brienne the Beauty,Brienne the Blue
+Bronn;						House Stokeworth;								Ser Bronn of the Blackwater,Lord Stokeworth
+Brynden Tully;				House Tully,House Arryn							Blackfish,Ser Brynden the Blackfish,Brynden Blackfish
+Catelyn Tully;				House Stark,House Tully,Brotherhood Without Banners;					Cat,Lady Stoneheart,The Silent Sister,Mother Merciless,The Hangwoman
+Cersei Lannister;			House Lannister;								Light of the West,Brotherfucker
+Cotter Pyke;				Night's Watch;
+Daario Naharis;				Stormcrows;
+Daenerys Targaryen;			House Targaryen;								Dany,Daenerys Stormborn,The Unburnt,Mother of Dragons,Mysha,The Silver Queen,Silver Lady,Child of Three,Daughter of Death,Slayer of Lies,Bride of Fire,The Dragon Queen
+Doran Martell;				House Nymeros Martell;
+Dorea Sand, seventh of the Sand Snakes, illegitimate daughter of Oberyn Martell and Ellaria Sand.
+Drogo;						Dothraki;
+Eddard Stark;				House Stark;									Ned,The Quiet Wolf
+Edmure Tully;				House Tully;
+Edric Storm;				House Baratheon;
+Elia Martell;				House Martell,House Targaryen;					Elia of Dorne
+Ellaria Sand;				House Uller,House Martell;						The serpent's whore
+Euron Greyjoy;				House Greyjoy;									Euron Crow's Eye
+Gendry;						Brotherhood Without Banners;					The Bull,Ser Gendry of the Hollow Hill
+Grey Worm;					The Unsullied,House Targaryen
+Hizdahr zo Loraq;			House of Loraq;					
+Hodor;						House Stark;
+Hoster Tully;				House Tully;
+Howland Reed;				House Reed;
+Illyrio Mopatis;			House Targaryen;								The Cheesemonger,The Fat Man,The Lord of Cheese
+Irri;						House Targaryen;
+Jaime Lannister;			House Lannister,Kingsguard;						The Kingslayer,The Lion of Lannister,The Young Lion,The Golden Man,Goldenhand,Cripple
+Jeor Mormont;				Night's Watch;									The Old Bear
+Jeyne Westerling;			House Stark,House Westerling
+Jhiqui;						House Targaryen;
+Jhogo;						House Targaryen;
+Joffrey Baratheon;			House Lannister;								Joffrey the Illborn,The Young Usurper,Aerys the Third
+Jojen Reed;					House Reed;										Little Grandfather
+Jon Arryn;					House Arryn;
+Jon Snow;					Night's Watch,House Stark						Lord Snow,Ned Stark's Bastard,The Snow of Winterfell,The Crow-Come-Over,The 998th Lord Commander of the Night's Watch,The Bastard of Winterfell,The Black Bastard of the Wall ,Lord Crow
+Jorah Mormont, son of Jeor Mormont, knight in exile, once Lord of Bear Island.
+Jory Cassel;				House Cassel;Karlon Stark;		House Stark;			Lord of Karl's Hold
+Kevan Lannister;		House Lannister;			Master of Laws,Lord Regent,Protector of the Realm
+Lancel Lannister;	House Lannister of darry;		Lord of Darry, son of Kevan Lannister, squire to King Robert Baratheon,
+Loras Tyrell;		House Tyrell;			Knight of Flowers
+Lyanna Stark;		House Stark;			Lya,the she-wolf,sister of Eddard Stark
+Lysa Tully;		House Tully;			Lady of the vale,widow of Jon Arryn
+Mace Tyrell;		House Tyrell;			Lord of Highgarden,Lord Oaf,The Fat Flower,Lord Puff Fish
+Mance Rayder;		Wildling;			”The King beyond the Wall”
+Margaery Tyrell;		House Tyrell;			
+Melisandre of Asshai;	Asshai;				"The Red Woman",”red woman”,”the red priestess”,lady red,the king's red shadow,lot seven
+Myrcella Baratheon;	House Baratheon;			
+Nymeria Sand;		House Martell;			Lady nym,
+Obara Sand;		House Martell;
+Obella Sand;		House Martell;
+Oberyn Martell;		House Martell;			the Red Viper,
+Podrick Payne;		House Payne;			pod,
+Quentyn Martell;		House Martell;			Frog,Prince Frog,The prince who came too late,The Dragonrider
+Rakharo;			House Targaryen;			
+Ramsay Snow;		House Snow;			"The Bastard of Bolton”,Ramsay Bolton,The Bastard of the Dreadfort,Reek,Red Helm,Monster
+Randyll Tarly;		House Tarly;
+Renly Baratheon;		House Baratheon;
+Rhaegar Targaryen;	House Targaryen;			Silver Prince,The Dragon Prince,The Last Dragon,Prince of Dragonstone
+Rickon Stark;		House Stark;
+Robb Stark;		House Stark;			The Young Wolf,The King Who Lost the North
+Robert Baratheon;	House Baratheon;			The Usurper,Demon of the Trident,The Whoremonger King
+Roose Bolton;		House Bolton;			The Leech lord,
+Roslin Frey;		House frey,House tully;
+Samwell Tarly;		Night's watch;			Sam,Ser Piggy,Lord of Ham,Lady Piggy,Sam the Slayer,Black Sam
+Sandor Clegane;						The Hound,Dog
+Sansa Stark;		House Stark;			Little bird,Alayne Stone,Jonquil
+Sarella Sand;		House Martell;			Alleras
+Selyse Florent;		House Floent;			Light of the North
+Shireen Baratheon;	House Baratheon;
+Stannis Baratheon;	House Baratheon;
+Styr;							"the Magnar of Thenn"
+Theon Greyjoy;		House Greyjoy;			Theon Turncloak,Reek,Prince of Fools
+Thoros of Myr;						The Red Wizard,The Ember
+Tommen Baratheon;	House Baratheon;
+Tyrion Lannister;	House Lannister;			"The Imp"
+Tywin Lannister;		House Lannister;			”The Lion of Lannister”,”The Old Lion”,”The Great Lion of the Rock”
+Varys;							The Spider,The Eunuch,Rugen
+Victarion Greyjoy;	House Gereyjoy;			The Iron Captain
+Viserys Targaryen;	House Targaryen;			The Beggar King,Khal Rhae Mhar,The Sorefoot King,Khal Rhaggat,The Cart King
+Walder Frey;		House Frey;			"Big Walder","Black Walder","Little Walder","Red Walder","The Late Lord Frey"
+Willas Tyrell;		House Tyrell;	
+Xaro Xhoan Daxos;	The thirteen;

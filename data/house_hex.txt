@@ -1,0 +1,26 @@
+93	93	Frey						grey					8A8787
+94	94	Reed						army					1F8713
+95	95	Tarly						light green				3EFC21
+96	96	Selmy						brown					BF7D32
+97	97	Payne						puple					B039CC
+98	98	Bolton						pink					FC60DD
+99	99	Florent						light grey				CCC4C8
+100	100	Marsh						green					3EB51D
+101	101	Wildling					Kind of blue			560CA6
+102	102	Mormont						Dark green				246911
+103	103	Clegane						Ugly yellow / turqise	EDD013
+104	104	Greyjoy						Black					423B34
+105	105	Martell						Dark red				87130D
+106	106	Brotherhood					brown					B87C28
+107	107	Other						Random					ADE5ED
+108	108	Tyrell						Green					2CC21B
+109	109	Tully						Dark blue				2309B5
+110	110	Dothraki					Light brown				F5B92C
+111	111	Night's Watch				Black / green			10470A
+
+113	113	Lannister					Red						FF2B27
+114	114	Targaryen					Yellow					FCFF23
+112	112	Baratheon					Orange					F79C43
+115	115	Stark						Grey					736F71
+
+tarth AEB8A5
